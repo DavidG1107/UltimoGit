@@ -4,9 +4,7 @@
 
 * [Insignias](#insignias)
 
-* [Índice](#índice)
-
-* [Descripción del proyecto](#descripción-del-proyecto)
+* [Descripción del proyecto](#)
 
 * [Estado del proyecto](#Estado-del-proyecto)
 
@@ -23,3 +21,5 @@
 * [Licencia](#licencia)
 
 * [Conclusión](#conclusión)
+  
+*  [Índice](#índice)
