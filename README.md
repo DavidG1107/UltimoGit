@@ -25,5 +25,23 @@
 * [Licencia](#licencia)
 
 * [Conclusión](#conclusión)
-  
-*  [Índice](#índice)
+  <table>
+  <tr>
+    <th>Nombre</th>
+    <th>Edad</th>
+    <th>Pais</th>
+  </tr>
+  <tr>
+    <td>Juan</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>María</td>
+    <td>30</td>
+  </tr>
+  <tr>
+  <td>Lucas</td>
+  </tr>
+</table>
+
+* [Índice](#índice)
