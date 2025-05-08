@@ -1,4 +1,25 @@
-# ***Lo Mas Nuevo***
- <html>
-   <imag>https://github.com/DavidG1107/UltimoGit/blob/master/Captura.JPG </imag>
- </html>
+## Índice
+
+* [Título e imagen de portada](https://static.vecteezy.com/system/resources/previews/018/888/966/original/water-wave-logo-vector.jpg#)
+
+* [Insignias](#insignias)
+
+* [Índice](#índice)
+
+* [Descripción del proyecto](#descripción-del-proyecto)
+
+* [Estado del proyecto](#Estado-del-proyecto)
+
+* [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+
+* [Acceso al proyecto](#acceso-proyecto)
+
+* [Tecnologías utilizadas](#tecnologías-utilizadas)
+
+* [Personas Contribuyentes](#personas-contribuyentes)
+
+* [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+
+* [Licencia](#licencia)
+
+* [Conclusión](#conclusión)
